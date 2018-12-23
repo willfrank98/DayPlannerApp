@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Day Planner</string>
+    <string name="button_viewCalender">View Calender</string>
+    <string name="button_addRegularItem">Add New Regular Item</string>
+    <string name="button_addOnceItem">Add New Once Item</string>
+    <string name="button_addToDoItem">Add New To-Do Item</string>
+</resources>
